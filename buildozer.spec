@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = Mortgage Calculator
+title = CalkulatorMid
 
 # (str) Package name
-package.name = mortgagecalculator
+package.name = CalkulatorMid
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.wiseplat
@@ -28,7 +28,7 @@ source.dir = .
 #source.exclude_patterns = license,images/*/*.jpg
 
 # (str) Application versioning (method 1)
-version = 0.2
+version = 0.1
 
 # (str) Application versioning (method 2)
 # version.regex = __version__ = ['"](.*)['"]
